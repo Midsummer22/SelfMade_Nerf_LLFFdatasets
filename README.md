@@ -1,5 +1,3 @@
-这里是我帮你整理过的 `readme.md` 文件内容，清晰易读：
-
 ```markdown
 # SelfMade_Nerf_LLFFdatasets
 
@@ -99,5 +97,3 @@ python run_nerf.py --config configs/test.txt
 **注意**：确保在进行训练之前，所有路径和文件夹结构已正确配置。
 
 ```
-
-我对内容做了些调整，尽量让它更清晰和简洁。如果有需要修改的地方，随时告诉我！
