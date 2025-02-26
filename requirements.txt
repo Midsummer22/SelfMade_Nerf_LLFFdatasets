@@ -1,0 +1,8 @@
+numpy==1.26.4
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard>=2.0
+tqdm
+opencv-python
